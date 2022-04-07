@@ -1,0 +1,1 @@
+I've recently worked on setting up the **Rstudio Team** system on *Azure* Ubuntu server including _Workbench_, _Package Manager_ and **_Connect_** and getting access to a Git server (GitHub) for collaboration.
