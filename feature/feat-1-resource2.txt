@@ -1,0 +1,1 @@
+This file (feat-1-resource2.txt) was created in local feature-1 branch by jmbo1190.
