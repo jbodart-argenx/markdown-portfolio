@@ -1,4 +1,4 @@
 This file (feat-1-file5.txt) was created in feature-1 remote branch on github by jbodart-argenx.
 
-This line was added in remote feature-1 branch on github by jbodart-argenx, then modified in local feature-1 branch by 
+This line was added, then modified in remote feature-1 branch on github by jbodart-argenx, then modified in local feature-1 branch by 
 jmbo1190.
